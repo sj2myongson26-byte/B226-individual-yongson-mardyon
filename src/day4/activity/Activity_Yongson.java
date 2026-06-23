@@ -13,7 +13,6 @@ public class Activity_Yongson {
     
     public static void main(String[] args) {
         
-    
     //initialize and declare boolean data type
     boolean isSubmitted = true;
     
