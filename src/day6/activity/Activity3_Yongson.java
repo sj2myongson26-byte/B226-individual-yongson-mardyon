@@ -27,22 +27,18 @@ public class Activity3_Yongson {
         boolean isHoliday = false;
         
         if(isWeekend || isHoliday){
-            System.out.println("No Classes Today");
+            System.out.println("No Classes Today"); // output
         }
         
         //Program 4
-        
         int score =85;
-        
-        System.out.println((score >=75) ? "Passed" : "Failed");
+        System.out.println((score >=75) ? "Passed" : "Failed"); // output
         
         
         //Program 5
-        
         int num1 = 10;
         int num2 = 25;
-        
-        System.out.println("The larger number is: " + (num1>num2 ? num1 : num2));
+        System.out.println("The larger number is: " + (num1>num2 ? num1 : num2)); //output
         
         
     }
