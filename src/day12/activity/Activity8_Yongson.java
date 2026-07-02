@@ -71,7 +71,7 @@ public class Activity8_Yongson {
             // Compute average
             averages[i] = (double) total / subjects;
 
-            input.nextLine(); // Clear newline
+            input.nextLine(); // Clear newline for line spaces
         }
 
         // Display Grades Report
