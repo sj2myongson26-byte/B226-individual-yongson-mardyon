@@ -9,7 +9,7 @@ package day17.activity;
  *
  * @author Mardyon
  */
-public class Mouse { //Chosen Object is Mouse
+public class Mouse { //Chosen Object is Mousez
     
     // Attributes (Fields) of Mouse
     String brand; 
